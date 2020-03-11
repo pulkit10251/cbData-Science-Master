@@ -26,3 +26,6 @@ MachineLearning/DecisionTree/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb
 MachineLearning/DecisionTree/.ipynb_checkpoints/RandomForest-checkpoint.ipynb
 MachineLearning/projects/Extracting Dominant Colours/.ipynb_checkpoints/ExtractingDominantCOLORS-checkpoint.ipynb
 *.ipynb
+DeepLearning/RNN/challenge/glove6b50dtxt/glove.6B.50d.txt
+*.gz
+*.txt
