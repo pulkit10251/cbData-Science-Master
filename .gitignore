@@ -25,3 +25,4 @@ MachineLearning/DecisionTree/challenge/.ipynb_checkpoints/titanic prediction wit
 MachineLearning/DecisionTree/.ipynb_checkpoints/DecisionTree-checkpoint.ipynb
 MachineLearning/DecisionTree/.ipynb_checkpoints/RandomForest-checkpoint.ipynb
 MachineLearning/projects/Extracting Dominant Colours/.ipynb_checkpoints/ExtractingDominantCOLORS-checkpoint.ipynb
+*.ipynb
