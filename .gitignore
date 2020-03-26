@@ -29,3 +29,5 @@ MachineLearning/projects/Extracting Dominant Colours/.ipynb_checkpoints/Extracti
 DeepLearning/RNN/challenge/glove6b50dtxt/glove.6B.50d.txt
 *.gz
 *.txt
+DeepLearning/Seq-Seq/fra-eng.zip
+DeepLearning/Seq-Seq/glove6b100dtxt.zip
